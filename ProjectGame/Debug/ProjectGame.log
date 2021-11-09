@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\Админ\source\repos\ProjectGame\ProjectGame\Game.cpp(14,8): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Админ\source\repos\ProjectGame\ProjectGame\Game.cpp(15,8): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  ProjectGame.vcxproj -> C:\Users\Админ\source\repos\ProjectGame\Debug\ProjectGame.exe
